@@ -5,4 +5,4 @@
 **Arpit Khandelwal**
 
 # How to Contribute
- **create the pull request or join discord server = https://discord.gg/k3R5dauZSS**
+ **Create the pull request or join discord server = https://discord.gg/k3R5dauZSS**
